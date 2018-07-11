@@ -41,8 +41,9 @@ POST /auth/login - POST Body: username, password
 POST auth/logout - POST Body: nothing
 
 GET /events
+POST /events/create - POST Body: name, date, location, description
 GET /events/:id
-POST /events/:id - POST Body: nothing (the user is already stored in the session)
+POST /events/:id/attend - POST Body: nothing (the user is already stored in the session)
 GET /profile
 POST /profile
 
@@ -52,6 +53,7 @@ POST /profile
 ````
 events
  - name: type String
+ - description: type String
  - date: type Date
  - location: type String
  - attendees: type ObjectId
