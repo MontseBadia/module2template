@@ -3,13 +3,6 @@
 ## Description
 
 Describe your project in one/two lines.
-
-Example:
- - 404
- - 500
- - homepage
- - sign up
- - login
  
  ## User Stories
 
