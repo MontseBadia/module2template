@@ -6,7 +6,7 @@ Describe your project in one/two lines.
 
 ## MVP
 
-Definition of the MVP with a list of user stories in order of priority/importance.
+Definition of the MVP. 
 
 Example:
  - 404
@@ -17,7 +17,7 @@ Example:
  
  ## User Stories
 
-Definicion de las tareas por orden de prioridad
+List of user stories in order of priority/importance.
 
 ## Backlog
 
