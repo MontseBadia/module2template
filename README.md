@@ -109,7 +109,7 @@ The url to your repository and to your deployed project
 
 The url to your presentation slides
 
-[Link Slides.com](http://slides.com)
+[Slides Link](http://slides.com)
 
 
 
