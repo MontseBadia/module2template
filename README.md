@@ -95,15 +95,15 @@ users {
 
 ### Trello
 
-[Link url](https://trello.com)
+[Link to your trello board](https://trello.com)
 
 ### Git
 
 The url to your repository and to your deployed project
 
-[Link Repositorio](http://github.com)
+[Repository Link](http://github.com)
 
-[Link Deploy](http://heroku.com)
+[Deploy Link](http://heroku.com)
 
 ### Slides.com
 
